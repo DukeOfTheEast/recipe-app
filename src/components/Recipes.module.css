@@ -1,0 +1,36 @@
+.recipe {
+  padding: 20px 50px;
+}
+
+.recipeSearch {
+  padding: 10px 20px;
+  border: 2px solid brown;
+  border-radius: 10px;
+}
+
+.recipeSearch:focus {
+  outline: none;
+}
+
+.recipeCards {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.recipeCard {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 3px 10px 0 #aaa;
+  padding: 10px;
+  width: 200px;
+  height: 350px;
+}
+
+.btnRecipe {
+  margin-top: auto;
+}

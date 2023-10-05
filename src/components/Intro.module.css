@@ -6,9 +6,10 @@
   padding: 30px 120px;
   font-size: 24px;
   gap: 50px;
+  border-bottom: 1px solid brown;
 }
 
-img {
+.introImg {
   width: 600px;
   height: 400px;
   border-radius: 0px 80px 0 80px;
