@@ -29,11 +29,11 @@ button {
   .intro {
     grid-template-columns: 1fr;
     padding: 20px 30px;
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .introImg {
-    width: 400px;
+    width: 300px;
     height: 300px;
   }
 }
