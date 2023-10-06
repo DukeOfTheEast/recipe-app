@@ -39,3 +39,9 @@
 .recipeImg {
   height: 150px;
 }
+
+@media only screen and (max-width: 767px) {
+  .recipe {
+    padding: 20px;
+  }
+}
