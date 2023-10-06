@@ -6,6 +6,7 @@
   padding: 10px 20px;
   border: 2px solid brown;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .recipeSearch:focus {
@@ -33,4 +34,8 @@
 
 .btnRecipe {
   margin-top: auto;
+}
+
+.recipeImg {
+  height: 150px;
 }

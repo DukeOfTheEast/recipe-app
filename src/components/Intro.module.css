@@ -24,3 +24,16 @@ button {
   color: white;
   margin: 20px 0;
 }
+
+@media only screen and (max-width: 767px) {
+  .intro {
+    grid-template-columns: 1fr;
+    padding: 20px 30px;
+    font-size: 20px;
+  }
+
+  .introImg {
+    width: 400px;
+    height: 300px;
+  }
+}

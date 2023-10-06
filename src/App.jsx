@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./components/Footer";
 import Intro from "./components/Intro";
 import Navbar from "./components/Navbar";
 import Recipes from "./components/Recipes";
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Intro />
       <Recipes />
+      <Footer />
     </>
   );
 }

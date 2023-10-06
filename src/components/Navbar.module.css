@@ -17,3 +17,9 @@
   background-color: brown;
   padding: 10px 100px;
 }
+
+@media only screen and (max-width: 767px) {
+  .navbar {
+    padding: 10px 20px;
+  }
+}
