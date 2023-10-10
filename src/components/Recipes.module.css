@@ -44,4 +44,8 @@
   .recipe {
     padding: 20px;
   }
+
+  .recipeCards {
+    padding: 5px;
+  }
 }
