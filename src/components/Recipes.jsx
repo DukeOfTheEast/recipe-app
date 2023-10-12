@@ -1,3 +1,4 @@
+import "./App.css";
 import React from "react";
 import style from "../components/Recipes.module.css";
 import axios from "axios";

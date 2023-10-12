@@ -3,3 +3,9 @@
   margin: 0;
   padding: 0;
 }
+
+@media only screen and (max-width: 767px) {
+  .selected {
+    width: 300px;
+  }
+}
